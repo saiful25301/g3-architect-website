@@ -200,6 +200,24 @@ main > section{
 .sponsors-companies img{
   filter: grayscale(100%);
 }
+/* footer section style */
+.footer-content{
+  background-color: rgba(255, 244, 231, 1);
+  color: rgba(66, 66, 66, 1);
+  text-align: center;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 10px 0;
+  
+} 
+.footer-content p{
+  margin: 5px 0;
+}
+ 
+
+  
 
 
 /* responsive media quary */
